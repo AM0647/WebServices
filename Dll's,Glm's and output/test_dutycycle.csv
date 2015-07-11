@@ -1,0 +1,9 @@
+# file...... test_dutycycle.csv
+# date...... Fri Jul 10 14:12:02 2015
+# user...... sotiris
+# host...... (null)
+# target.... transformer 15
+# trigger... (none)
+# interval.. 60
+# limit..... 0
+# timestamp,power_out.real
