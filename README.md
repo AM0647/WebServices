@@ -12,5 +12,6 @@ INCLUDED:
 
 
 - A folder containing the produced dll files (market.dll and generators.dll) along with the glm files gridlabd uses. There is also the output gridlabd generated.
+
 -------------------------------------------------------
 
