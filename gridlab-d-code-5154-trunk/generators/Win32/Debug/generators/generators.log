@@ -1,0 +1,60 @@
+﻿Build started 10/7/2015 3:52:27 μμ.
+     1>Project "C:\Users\sotiris\Desktop\gridlab-d-code-5154-trunk\generators\generators.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Win32\Debug\generators\generators.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\VS2005\Win32\Debug\generators.dll" /INCREMENTAL /NOLOGO /LIBPATH:..\VS2005\Win32\Debug\ kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Win32\Debug\generators\generators.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\sotiris\Desktop\gridlab-d-code-5154-trunk\VS2005\Win32\Debug\generators.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\VS2005\Win32\Debug\generators.lib" /MACHINE:X86 /DLL Win32\Debug\generators\generators.dll.embed.manifest.res
+         Win32\Debug\generators\battery.obj
+         Win32\Debug\generators\central_dg_control.obj
+         Win32\Debug\generators\dc_dc_converter.obj
+         Win32\Debug\generators\diesel_dg.obj
+         Win32\Debug\generators\energy_storage.obj
+         Win32\Debug\generators\init.obj
+         Win32\Debug\generators\inverter.obj
+         Win32\Debug\generators\main.obj
+         Win32\Debug\generators\microturbine.obj
+         Win32\Debug\generators\micro_service.obj
+         Win32\Debug\generators\power_electronics.obj
+         Win32\Debug\generators\rectifier.obj
+         Win32\Debug\generators\solar.obj
+         Win32\Debug\generators\solar_service.obj
+         Win32\Debug\generators\stdafx.obj
+         Win32\Debug\generators\windturb_dg.obj
+         Win32\Debug\generators\wind_service.obj
+            Creating library ..\VS2005\Win32\Debug\generators.lib and object ..\VS2005\Win32\Debug\generators.exp
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Win32\Debug\generators\generators.dll.embed.manifest" /manifest Win32\Debug\generators\generators.dll.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\VS2005\Win32\Debug\generators.dll" /INCREMENTAL /NOLOGO /LIBPATH:..\VS2005\Win32\Debug\ kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Win32\Debug\generators\generators.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\sotiris\Desktop\gridlab-d-code-5154-trunk\VS2005\Win32\Debug\generators.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\VS2005\Win32\Debug\generators.lib" /MACHINE:X86 /DLL Win32\Debug\generators\generators.dll.embed.manifest.res
+         Win32\Debug\generators\battery.obj
+         Win32\Debug\generators\central_dg_control.obj
+         Win32\Debug\generators\dc_dc_converter.obj
+         Win32\Debug\generators\diesel_dg.obj
+         Win32\Debug\generators\energy_storage.obj
+         Win32\Debug\generators\init.obj
+         Win32\Debug\generators\inverter.obj
+         Win32\Debug\generators\main.obj
+         Win32\Debug\generators\microturbine.obj
+         Win32\Debug\generators\micro_service.obj
+         Win32\Debug\generators\power_electronics.obj
+         Win32\Debug\generators\rectifier.obj
+         Win32\Debug\generators\solar.obj
+         Win32\Debug\generators\solar_service.obj
+         Win32\Debug\generators\stdafx.obj
+         Win32\Debug\generators\windturb_dg.obj
+         Win32\Debug\generators\wind_service.obj
+            Creating library ..\VS2005\Win32\Debug\generators.lib and object ..\VS2005\Win32\Debug\generators.exp
+         generators.vcxproj -> C:\Users\sotiris\Desktop\gridlab-d-code-5154-trunk\generators\..\VS2005\Win32\Debug\generators.dll
+       FinalizeBuildStatus:
+         Deleting file "Win32\Debug\generators\generators.unsuccessfulbuild".
+         Touching "Win32\Debug\generators\generators.lastbuildstate".
+     1>Done Building Project "C:\Users\sotiris\Desktop\gridlab-d-code-5154-trunk\generators\generators.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.44

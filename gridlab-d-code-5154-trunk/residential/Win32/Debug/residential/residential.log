@@ -1,0 +1,13 @@
+﻿Build started 9/7/2015 5:04:48 μμ.
+     1>Project "C:\Users\sotiris\Desktop\gridlab-d-code-5154-trunk\residential\residential.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Win32\Debug\residential\residential.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\core /Z7 /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D _CRT_SECURE_NO_DEPRECATE /D _CTR_DEPRECATE_NO_WARNING /D _WINDLL /D _MBCS /Gm- /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Win32\Debug\residential\\" /Fd"Win32\Debug\residential\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt WH_as_service.cpp
+         WH_as_service.cpp
+     1>c:\users\sotiris\desktop\gridlab-d-code-5154-trunk\residential\WaterHeaterSvc.h(3): fatal error C1190: managed targeted code requires a '/clr' option
+     1>Done Building Project "C:\Users\sotiris\Desktop\gridlab-d-code-5154-trunk\residential\residential.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.34
